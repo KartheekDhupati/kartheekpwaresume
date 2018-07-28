@@ -1,0 +1,45 @@
+{"details":{
+  "image":"images (3).png",
+  "name":"vamsi",
+  "number":"+91-9912345699",
+  "email":"vamsi789@gmail.com",
+  "Address":"MIC College Of Technology,Kanchikacherla"
+},
+  "Career":{
+    "info":"To pursure a challenging Career and be a part of progressive organization that gives a scope to enhance my knowledge."
+},
+"Education":[{
+  "Qulification":"B.Tech",
+  "Institute":"MIC College Of Technology",
+  "Year":"2017-2021",
+  "Percentage":"98%"
+
+},
+{
+  "Qulification":"Intermedite",
+  "Institute":"Sri Chaitanya JR.College",
+  "Year":"2015-2017",
+  "Percentage":"90%"
+},
+{
+  "Qulification":"SSC",
+  "Institute":"Sri Chaitanya Techno School",
+  "Year":"2015",
+  "Percentage":"93%"
+}
+],
+"Skills":[{
+  "title":"Programming Languages:",
+  "info":["C,C++,Java,Python,R"]
+},
+{
+  "title":"Databases:",
+  "info":["oracle,sql,mysql,Tinydb"]
+},
+{
+  "title":"Operating Systems:",
+  "info":["linux,windows,mac,black box"]
+}
+],
+"Achievments":["Application creating,fast typeing,Dos,C Language,Coad Cracking"]
+}

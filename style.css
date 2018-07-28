@@ -1,0 +1,164 @@
+.main{
+  border: 2px solid green;
+  padding: 2%;
+  display: flex;
+  flex-direction: row;
+}
+h2{
+  color: red;
+}
+a{
+  color: brown;
+  font-style: 40px;
+  word-wrap: break-word;
+}
+.left{
+  border: 2px solid blue;
+  padding: 2%;
+  margin: 2%;
+  width: 30%;
+  text-align: center;
+  font-size: 30;
+}
+#name{
+  color: green;
+  font-size: 30px;
+  text-align: center;
+}
+#number{
+  color: red;
+  font-size: 30px;
+  text-align: center;
+}
+.left img{
+  width: 50%;
+  border-radius: 50%;
+  border: 2px solid;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.right{
+  border: 2px solid pink;
+  padding: 2%;
+  margin: 2%;
+  width: 50%;
+}
+.right img{
+  width: 50%;
+  border-radius: 50%;
+  border: 2px solid;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+@media only screen and  (min-width:0px) and (max-width: 480px){
+  .main{
+    border: 2px solid green;
+    padding: 2%;
+    display: flex;
+    flex-direction: column;
+  }
+  h2{
+    color: red;
+  }
+  a{
+    color: brown;
+    font-style: 40px;
+    word-wrap: break-word;
+  }
+  .left{
+    border: 2px solid blue;
+    padding: 2%;
+    margin: 2%;
+    width: 90%;
+    text-align: center;
+    font-size: 30;
+    background-color: skyblue;
+  }
+  #name{
+    color: green;
+    font-size: 30px;
+    text-align: center;
+  }
+  #number{
+    color: red;
+    font-size: 30px;
+    text-align: center;
+  }
+  .table1{
+    width: 90%;
+    overflow-x: auto;
+  }
+  .left img{
+    width: 50%;
+    border-radius: 50%;
+    border: 2px solid;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .right{
+    border: 2px solid pink;
+    padding: 2%;
+    margin: 2%;
+    background-color: skyblue;
+    width: 90%;
+  }
+}
+@media only screen and  (min-width: 481px) and (max-width: 760px){
+  .main{
+    border: 2px solid green;
+    padding: 2%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+  }
+  h2{
+    color: red;
+  }
+  a{
+    color: brown;
+    font-style: 40px;
+    word-wrap: break-word;
+  }
+  .left{
+    border: 2px solid blue;
+    padding: 2%;
+    margin: 2%;
+    width: 40%;
+    text-align: center;
+    font-size: 30;
+    background-color: lightgreen;
+  }
+  #name{
+    color: green;
+    font-size: 30px;
+    text-align: center;
+  }
+  #number{
+    color: red;
+    font-size: 30px;
+    text-align: center;
+  }
+  .table1{
+    width: 90%;
+    overflow-x: auto;
+  }
+  .left img{
+    width: 50%;
+    border-radius: 50%;
+    border: 2px solid;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .right{
+    border: 2px solid pink;
+    padding: 2%;
+    margin: 2%;
+    background-color: lightpink;
+    width: 40%;
+  }
+}
